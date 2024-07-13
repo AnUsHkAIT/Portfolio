@@ -1,0 +1,33 @@
+[
+    {
+      "title": "CodeSynth",
+      "description": "A React-based collaborative code editing platform. Demonstrates proficiency in frontend development and integration of advanced web technologies.",
+      "skills": ["React", "JavaScript" , "HTML" , "CSS"],      
+      "source": "https://github.com/AnUsHkAIT/CodeSynth"
+    },
+    {
+      "title": "She Rises Website",
+      "description": "Made a website which is focused on Woman Empowerment,It consists information regarding woman health,find washrooms,chatbot,Period tracker.",
+      "skills": ["HTLM", "CSS", "API"],    
+      "source": "https://github.com/AnUsHkAIT/SheRises"
+    },
+    {
+      "title": "Weather Forecasting Website",
+      "description": "Made a website using Web development and API system.",
+      "skills": ["JS", "HTML", "CSS" , "API"],     
+      "source": "https://github.com/AnUsHkAIT/Weather-Forecasting-App"
+    },
+    {
+      "title": "AR- image Tracking App",
+      "description": "Made an app using unity and C# scripts.",
+      "skills": ["C#", "Unity 3D", "AR/VR"],    
+      "source": "https://drive.google.com/file/d/1vikYdp4b-c1HSf1Td_Tpb6mNSkUSOPet/view"
+    },
+    {
+      "title": "Roll-A-Ball",
+      "description": "Made a game by using unity, added UI and some textures to it and wrote C# scripts for player functionalities.",
+      "skills": ["C#", "Unity 3D"],    
+      "source": "https://drive.google.com/file/d/140eoaQDKzDEpCo_H4AMa0w5u0VTamwi9/view"
+    }
+  ]
+

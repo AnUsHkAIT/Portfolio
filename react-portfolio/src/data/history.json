@@ -1,0 +1,43 @@
+[
+  {
+      "role": "AI/ML Intern",
+      "organisation": "AI Club IGDTUW",
+      "startDate": "May, 2023",
+      "endDate": "Aug, 2023",
+      "experiences": [
+          "Gained practical experience in machine learning techniques and their application in real-world projects."
+      ],
+        "imageSrc": "history/Ai.jpg"
+    },
+  {
+      "role": "Lead",
+      "organisation": "HackClub IGDTUW",
+      "startDate": "March, 2023",
+      "endDate": "April, 2024",
+      "experiences": [
+          "I oversaw and organized technical workshops, hackathons, and community events, fostering a vibrant coding culture within the club."
+      ],
+      "imageSrc": "history/hackclub.jpg"
+  },
+  {
+      "role": "Beta MLSA",
+      "organisation": "Microsoft",
+      "startDate": "Apr, 2023",
+      "endDate": "Present",
+      "experiences": [
+          "I am actively engaged with the student community, organized tech events, and promoted learning opportunities centered around Microsoft technologies."
+      ],
+      "imageSrc": "history/ms.png"
+    },
+          {
+            "role": "Harvard WeCode Scholar",
+            "organisation": "Harvard University",
+            "startDate": "2022",
+            "endDate": "2023",
+            "experiences": [
+                "As a two-time Harvard WeCode Scholar, I participated in leadership workshops, tech talks, enhancing my skills and network within the tech community."
+            ],
+            "imageSrc": "history/harvard.jpg"
+        }
+        ]
+  
